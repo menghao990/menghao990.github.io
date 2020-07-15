@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+h1{text-align: center; color:#F00}
+img{height:150px;width:150px}
+#b1{height:200px;width:200px}
+p{text-align:center}
+a{color:#00F}
+a:hover{color:#F00}
+.l{ float:left}
+.r{ float:right}
