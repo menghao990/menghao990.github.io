@@ -1,0 +1,190 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>编程打字游戏</title>
+        <!--引入animate.css动画库-->
+        <link rel="stylesheet" href="animate.css">
+        <style>
+            body{
+                margin: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                background: radial-gradient(circle,#444,#000,#000);
+            }
+            #char{
+                font-size: 200px;
+                color: lightgreen;
+                text-shadow: 0 0 50px #666;
+            }
+            #result{
+                font-size: 20px;
+                color: #888;
+            }
+			#times{
+                font-size: 20px;
+                color: #888;
+            }
+            #char.error{
+                color: red;
+
+            }
+			.char{
+                font-size: 200px;
+                color: ddddff;
+                text-shadow: 0 0 50px #666;
+            }
+        </style>
+    </head>
+    <body>
+        <mian>
+			<div><input type="button" value="正式测试" id="b1" onClick="aa(this)"/></div>
+			<div id="times">未开始</div>
+			<div id="result">请在按键上按下屏幕上显示的字母</div>
+            <div id="char">A</div>
+			<div id="char2" class="char"></div>
+        </mian>
+    </body>
+</html>
+<script>
+	var a = 0;
+	var b = false;
+	var c = 0;
+	var d = false;
+	var e = 0;
+    var code;
+    var f=0;
+    var g=0;
+    var h=document.getElementById('char');
+    var j=document.getElementById('result');
+	var k;
+	var random_keys="";
+	var l;
+	var m=0;
+    function bb(){
+		var strArr = ["html","head","body","meta","char","set","title","div","table","cellpadding","cellspacing","width","height","border","color","background","colspan","rowspan","align","left",
+		"right","top","bottom","center","font","size","weight","style","type","family","line","text","underline","none","position","repeat","image","input","button","reset","submit","file","radio","checkbox","nav",
+		"header","footer","section","banner","relative","absolute","fixed","static","solid","dotted","dashed","inline","block","display","document"];//60
+        var rand=Math.random();
+        code=rand*60;
+        code=Math.floor(code);
+        var chars=strArr[code];
+        h.innerHTML=chars;
+		/*random_keys="";
+		for(var i=0;i<chars.length;i++){
+			//var temp = chars.charAt(i);
+			//random_keys+=temp.charCodeAt();
+			random_keys+=chars.charCodeAt(i);
+		}*/
+		l = chars.length;
+    }
+    bb();
+    window.onkeydown=function(ev){
+		if(!d){
+			ee();
+			d=true;
+			k = setInterval(ee,1000);
+		}
+        var key=ev.keyCode;
+		if(key!=8&&key!=16&&key!=17&&key!=18&&key!=13&&key!=20&&key!=9){
+			m++;
+			e++;
+			document.getElementById("char2").innerHTML += String.fromCharCode(key).toLowerCase();
+		}else if(key==16){
+		}else if(key==17||key==18||key==13||key==20||key==9){
+		}else{
+			if(m!=0){
+				e--;
+			}
+			m = (m==0?0:m-1);
+			var temp = document.getElementById("char2").innerHTML;
+			temp = temp.substr(0,temp.length-1);
+			document.getElementById("char2").innerHTML = temp;
+		}
+		var s1=document.getElementById("char").innerHTML;
+		var s2=document.getElementById("char2").innerHTML;
+        if(m == l && s1==s2){
+            f ++;
+            bb();
+            h.className ='animated zoomIn';
+			m=0;
+			document.getElementById("char2").innerHTML ="";
+        }else if(m == l && s1!=s2){
+            g ++;
+            h.className='animated shake error';
+			e-=m;
+			m=0;
+			document.getElementById("char2").innerHTML ="";
+        }
+        dd();
+		setTimeout(cc,1600);
+    }
+    function cc(){
+        h.className='';
+    }
+    function dd(){
+        var rate=100*f/(f+g);
+        j.innerHTML='正确'+f+'个'+'错误'+g+'个'
+        +'正确率'+rate.toFixed(2)+'%';
+    }
+	function ee(){
+		if(b && a>0){
+			a--;
+			document.getElementById("b1").value="进行测试中,剩余时间："+a+"秒";
+		}else if(b && a<=0){
+			ff();
+			document.getElementById("b1").value="正式测试结束，请重新刷新网页";
+			return;
+		}
+		c++;
+		var speed = Math.floor(e/c*60);
+		document.getElementById("times").innerHTML = c+"秒,打字速度 "+speed+" 个/分";
+	}
+	function aa(buttonx){
+		a = prompt("请输入测试时间","60");
+		if(isNaN(a)){
+			alert("不是数字，请重新输入");
+			aa(buttonx);
+			return;
+		}else if(a==null || a==undefined || a==""){
+			a = 0;
+			return;
+		}
+		gg();
+		buttonx.value = "进行测试中,剩余时间："+a+"秒";
+		buttonx.disabled=true;
+		b = true;
+	}
+	function ff(){
+		clearInterval(k);
+		window.onkeydown = function(){};
+		var speed = Math.floor(e/c*60);
+		var msg = "等级：";
+		if(speed>=200){
+			msg+="S";
+		}else if(speed>=150 && speed<200){
+			msg+="A";
+		}else if(speed>=100 && speed<150){
+			msg+="B";
+		}else if(speed>=60 && speed<100){
+			msg+="C";
+		}else{
+			msg+="D";
+		}
+		document.getElementById('char').innerHTML=msg;
+	}
+	function gg(){
+		c = 0;
+		d = false;
+		e=0;
+		f=0;
+		g=0;
+		bb();
+		clearInterval(k);
+		document.getElementById('result').innerHTML="请在按键上按下屏幕上显示的字母";
+		document.getElementById('times').innerHTML="未开始";
+		document.getElementById('char2').innerHTML="";
+		m=0;
+	}
+</script>
