@@ -7,5 +7,7 @@ p{text-align:center}
 a{color:#00F}
 a:hover{color:#F00}
 .l{ float:left}
-.zj{float:left}
+.zj{float:left;
+font-family: 宋体,楷书,微软雅黑;
+font-size: 2em;color: #F00;}
 .r{ float:right}
