@@ -4,8 +4,9 @@ h1{text-align: center; color:#F00}
 img{height:150px;width:150px}
 #b1{height:200px;width:200px}
 p{text-align:center}
-a{color:#00F text-decoration:none}
+a{color:#00F}
 a:hover{color:#F00}
+a:{text-decoration:none}
 .l{ float:left}
 .zj{float:left;}
 .zj a{font-family: 宋体,楷书,微软雅黑;
