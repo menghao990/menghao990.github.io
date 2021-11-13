@@ -4,7 +4,7 @@ h1{text-align: center; color:#F00}
 img{height:150px;width:150px}
 #b1{height:200px;width:200px}
 p{text-align:center}
-a{color:blue}
+a{color: #fff}
 a:hover{color: red}
 a{text-decoration:none;font-weight:bold;}
 .l{ float:left}
