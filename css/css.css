@@ -27,7 +27,7 @@ a{text-decoration:none;}
 .nav li a{color: #fff;}
 /* haibao */
 .haibao{
-    height: 420px;
+    height: 500px;
     background:url(../img/hb.jpg) no-repeat center;
     border-bottom: 1px solid #afa3ad;
 }
@@ -38,6 +38,7 @@ a{text-decoration:none;}
     padding-top:35px;
     font-family: "微软雅黑";
     width: 1011px;
+    background: #f5f5f5;
     
 }
 .main1{
@@ -154,7 +155,7 @@ float: left;
 }
 .bottom{
     height: 215px;
-   
+    background: #222;
 }
 .bottom-l{
     width: 492px; ;
@@ -208,7 +209,7 @@ float: left;
 .foot-wrap{  background: #101010;}
 .foot{
     height: 45px;
-  
+    background: #101010;
     color: #999;
     font-size: 12px;
     line-height: 45px;
