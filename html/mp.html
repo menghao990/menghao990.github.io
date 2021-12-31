@@ -1,0 +1,131 @@
+<!doctype html> 
+<html> 
+<head> 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>名片</title>
+    
+    <script>
+    var setting = {
+        qqUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=QIeCcX5p6PUxabLeCdV-dd0U4ShP7mOT&noverify=0",
+        wechatUrl: "https://u.wechat.com/EKmvDH5AzmTpE0eEqgwBTlU",
+        aliUrl: "https://qr.alipay.com/12018920alwkffmjbpxvv88",
+        qrcodeApi: "https://api.isoyu.com/qr/?m=0&e=L&p=10&url=",   
+        /*
+        https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=
+		http://api.k780.com:88/?app=qr.get&data=
+		http://qr.liantu.com/api.php?text=
+        http://s.jiathis.com/qrcode.php?url=
+        http://www.kuaizhan.com/common/encode-png?large=true&data=
+        http://b.bshare.cn/barCode?site=weixin&url=
+        http://pan.baidu.com/share/qrcode?w=150&h=150&url=
+        */
+    }
+    </script>
+    
+    <style>
+    * {
+        margin: 0; padding: 0;
+        font-family: Microsoft yahei;
+    }
+    body {
+        background-color: #fff;
+    }
+    .code-item {
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+        padding-bottom: 1px;
+        display: none;
+        background-color: #5c92ef;
+    }
+    .code-title {
+        height: 100px;
+        background-color: #f2f2f2;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+    }
+    .code-area {
+        text-align: center;
+    }
+    .code-area>img {
+        margin: 80px 0;
+        width: 60%;
+        min-width: 100px;
+    }
+    .code-footer {
+        height: 80px;
+        text-align: center;
+        background-color: #fff;
+        color: #666;
+        line-height: 80px;
+        font-size: 20px;
+        margin: -2px 2px 2px 2px;
+    }
+    
+    #code-all>.code-title {
+        background-image: url("../img/shy.png");
+    }
+    
+    #code-qq {
+        background-color: #54b4ef;
+    }
+    #code-qq>.code-title {
+        background-image: url("../img/qqmp.png");
+    }
+    
+    #code-wechat {
+        background-color: #54bc6e;
+    }
+    #code-wechat>.code-title { 
+        background-image: url("../img/wxmp.png");
+        
+    }
+    </style>    
+
+</head>
+<body>
+    <div class="code-item" id="code-all">
+        <div class="code-title"></div>
+        <div class="code-area">
+            <img id="page-url" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==">
+        </div>
+        <div class="code-footer">扫描以上二维码加我好友</div>
+    </div>
+    <div class="code-item" id="code-qq">
+        <div class="code-title"></div>
+        <div class="code-area">
+            <img id="qq-url" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==">
+        </div>
+        <div class="code-footer">长按以上二维码加我好友</div>
+    </div>
+    <div class="code-item" id="code-wechat">
+        <div class="code-title"></div>
+        <div class="code-area">
+            <img id="wechat-url" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==">
+        </div>
+        <div class="code-footer">长按以上二维码加我好友</div>
+    </div>
+    
+    <script>
+    if(navigator.userAgent.match(/Alipay/i)) {
+        window.location.href = setting.aliUrl; 
+    } else if(navigator.userAgent.match(/MicroMessenger\//i)) {
+        document.getElementById("wechat-url").src = setting.qrcodeApi + urlEncode(setting.wechatUrl);
+        document.getElementById("code-wechat").style.display = "block";
+    } else if(navigator.userAgent.match(/QQ\//i)) {
+        document.getElementById("qq-url").src = setting.qrcodeApi + urlEncode(setting.qqUrl);
+        document.getElementById("code-qq").style.display = "block";
+    } else {
+        document.getElementById("page-url").src = setting.qrcodeApi + urlEncode(window.location.href);
+        document.getElementById("code-all").style.display = "block";
+    }
+    function urlEncode(String) {
+        return encodeURIComponent(String).replace(/'/g,"%27").replace(/"/g,"%22");	
+    }
+    </script>
+
+</body>
+</html>
