@@ -48,8 +48,27 @@
         .ds{position: absolute;
         top: 50%;
         left:0px;
-        opacity:0.9;}
-        .ds a img{width: 50px;height: 50px;}
+        opacity:0.8;}
+        .ds span{
+            font-family:"iconfont";
+            color:red;
+            font-size:30px;
+        }
+        @font-face {
+  font-family: 'iconfont';  /* Project id 3188987 */
+  src: url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.woff2?t=1645090368782') format('woff2'),
+       url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.woff?t=1645090368782') format('woff'),
+       url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.ttf?t=1645090368782') format('truetype');
+}
+      .ds img{
+    width: 75px;height: 75px;
+    position: absolute;
+    display: none;
+}
+.ds:hover img{
+    display: block;
+    position: absolute;
+}  
     </style>
 </head>
 <body>
@@ -101,7 +120,8 @@
        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=320 height=390 src="https://music.163.com/outchain/player?type=0&id=4975082376&auto=0&height=400"></iframe>
     </div>
     <div class="ds">
-        <a href="html/pay.html"><img src="img/赏.png" alt="打赏" title="请作者喝杯咖啡"></a>
+        <a href="html/pay.html"><span>&#xe647;</span></a>
+        <img src="./img/dsm.png" alt="" title="QQ,微信,支付宝"> 
     </div>
 </body>
 </html>
