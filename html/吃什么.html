@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>随机点餐</title>
+    <style>
+        body{
+            margin: 0;padding: 0;
+        }
+        #box {
+            width: 400px;
+            height: 750px;
+            background: paleturquoise;
+            margin: 0px auto;
+            padding: 0;
+            text-align: center;
+        }
+
+        #box button {
+            width: 280px;
+            height: 40px;
+            margin-top: 20px;
+            border-radius: 10px;
+            border-color: violet;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="box">
+        <button>点我随机点餐</button>
+        <h2 id="name1"></h2>
+    </div>
+    <script>
+        let btn = document.getElementsByTagName('button')[0];
+        let h2 = document.getElementById('name1');
+        let arr = ['自选菜', '麻辣烫', '烩饼', '鸡腿饭', '米饭', '牛肉面', '炒饭', '炒米粉', '米线', '螺蛳粉'];
+        btn.onclick = () => {
+            let a = Math.floor(Math.random() * (arr.length));
+            console.log(a);
+            h2.innerHTML = arr[a];
+        }
+    </script>
+
+</body>
+
+</html>
