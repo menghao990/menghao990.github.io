@@ -7,9 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>随机点餐</title>
     <style>
-        body{
-            margin: 0;padding: 0;
+        body {
+            margin: 0;
+            padding: 0;
         }
+
         #box {
             width: 400px;
             height: 844px;
@@ -37,7 +39,7 @@
     <script>
         let btn = document.getElementsByTagName('button')[0];
         let h2 = document.getElementById('name1');
-        let arr = ['自选菜', '麻辣烫', '烩饼', '鸡腿饭', '米饭', '牛肉面', '炒饭', '炒米粉', '米线', '螺蛳粉'];
+        let arr = ['自选菜', '麻辣烫', '烩饼', '鸡腿饭', '米饭', '牛肉面', '炒饭', '炒米粉', '米线', '螺蛳粉', '大鸡腿'];
         btn.onclick = () => {
             let a = Math.floor(Math.random() * (arr.length));
             console.log(a);
