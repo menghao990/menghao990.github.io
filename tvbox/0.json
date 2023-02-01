@@ -1,34 +1,6 @@
 {
     "sites": [
         {
-            "key": "Kunyu77",
-            "name": "鲲鱼77(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Kuaikan",
-            "name": "快看(爬虫)",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Voflix",
-            "name": "Voflix(爬虫)",
-            "type": 3,
-            "api": "csp_Voflix",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "农民",
             "name": "农民(爬虫)",
             "type": 3,
@@ -59,24 +31,6 @@
             "filterable": 1
         },
         {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Xinsj",
             "name": "新视觉(爬虫)",
             "type": 3,
@@ -85,17 +39,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Tian",
-            "name": "天天(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
         },
         {
             "key": "LiteApple",
@@ -107,65 +50,10 @@
             "filterable": 1
         },
         {
-            "key": "Panghu",
-            "name": "胖虎(爬虫)",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ysgc",
-            "name": "影视工厂(爬虫)",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Bttoo",
             "name": "Bttoo(爬虫)",
             "type": 3,
             "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Coke",
-            "name": "Cokemv(爬虫)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lgyy",
-            "name": "蓝光影院(爬虫)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Bdys01",
-            "name": "哔滴影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ddrk",
-            "name": "低端(爬虫)",
-            "type": 3,
-            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -261,15 +149,6 @@
             "name": "奇异果(解析)",
             "type": 3,
             "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "QQ",
-            "name": "企鹅(解析)",
-            "type": 3,
-            "api": "csp_QQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
