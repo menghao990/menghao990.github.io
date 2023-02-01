@@ -723,5 +723,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cf5098dbf27d5db9464c927169e5e1c8"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cf5098dbf27d5db9464c927169e5e1c8",
+    "wallpaper": "https://api.yimian.xyz/img?type=wallpaper"
 }
