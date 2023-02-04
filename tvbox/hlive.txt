@@ -78,6 +78,11 @@ tom__yam3,https://edge4-lax.live.mmcdn.com/live-hls/amlst:tom__yam3-sd-2e4ff4bea
 yuna_03,https://edge7-lax.live.mmcdn.com/live-hls/amlst:yuna_03-sd-83b4c82ff9bd8df6481760030aab7b7146343ca03a44c790682d0da2931a2ae2_trns_h264/chunklist_w1156560508_b5128000_t64RlBTOjMwLjA=.m3u8
 succuba_,https://edge16-lax.live.mmcdn.com/live-hls/amlst:succuba_-sd-bedf1e2ef48a6421d4b614d6b0c6305e0778b6597ef7667f35aae2dcf1b3499b_trns_h264/chunklist_w1264508001_b5128000_t64RlBTOjIzLjk4.m3u8
 ayanami11,https://edge2-lax.live.mmcdn.com/live-hls/amlst:ayanami11-sd-ec398ae7699a2a114a49dbd21ae5ca730c9dd5a120803b0be8e7d75afab1c1c4_trns_h264/chunklist_w414316960_b5128000_t64RlBTOjMwLjA=.m3u8
+asuna_moon,https://edge10-lax.live.mmcdn.com/live-hls/amlst:asuna_moon-sd-10e5379472e2ecd3da6e539e1703c48e7c1a1d878f2c5eb88c8600a5843ca82e_trns_h264/chunklist_w1710538767_b3096000_t64RlBTOjMwLjA=.m3u8
+tokpokki_m,https://edge5-lax.live.mmcdn.com/live-hls/amlst:tokpokki_m-sd-64f468e8c7a283f7ce675a7db2aa71b200712e763a70ce8abd2f0d304facc467_trns_h264/chunklist_w1502161486_b5128000_t64RlBTOjMwLjA=.m3u8
+aimetyan,https://edge98.stream.highwebmedia.com/live-hls/amlst:aimetyan-sd-beccb13f04bb39819612a4a7b0bd90ee32cc5671d232ad32e373edb302f5689d_trns_h264/chunklist_w561285398_b5128000_t64RlBTOjMwLjA=.m3u8
+maybenanako,https://edge4-lax.live.mmcdn.com/live-hls/amlst:maybenanako-sd-454894b32a71a0905ad9dd4ed366dd823b14bee541d2693a25592e7dfe3a8c7b_trns_h264/chunklist_w2017850702_b5128000_t64RlBTOjMwLjA=.m3u8
+
 
 日本,#genre#
 
