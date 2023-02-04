@@ -59,14 +59,24 @@
 花絮-幕后花絮•1,https://v4.cvhlscdn.com/20210918/pg4sWQLe/index.m3u8
 花絮-幕后花絮•2,https://v4.cvhlscdn.com/20221105/0NXbWItw/hls/index.m3u8
 
-直播,#genre#
+chaturbate直播,#genre#
 
 Amaya,https://edge3-sea.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-de6c9766032239435354de37db1d83bf85c97527c2323838c7b9dda6447edfae_trns_h264/chunklist_w1779571403_b3096000_t64RlBTOjMwLjA=.m3u8
 Amaya,https://edge14-lax.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-de6c9766032239435354de37db1d83bf85c97527c2323838c7b9dda6447edfae_trns_h264/chunklist_w377268962_b1148000_t64RlBTOjMwLjA=.m3u8
 Yui ^^,https://edge7-lax.live.mmcdn.com/live-hls/amlst:peow_peow_-sd-aac77367c2543ca7106a9b3517fb9d9f62fe4173ebceeebb612780983f34afdc_trns_h264/chunklist_w1651956300_b3096000_t64RlBTOjI5Ljk3.m3u8
-Yui ^^,https://edge7-lax.live.mmcdn.com/live-hls/amlst:peow_peow_-sd-aac77367c2543ca7106a9b3517fb9d9f62fe4173ebceeebb612780983f34afdc_trns_h264/chunklist_w1651956300_b1848000_t64RlBTOjI5Ljk3.m3u8
 CindyBKK,https://edge5-lax.live.mmcdn.com/live-hls/amlst:cindybkk-sd-23ce3841f717ff10a84d9dcfab0a7ae6fda153c3d96c109d97901199c35aca35_trns_h264/chunklist_w1640762044_b5128000_t64RlBTOjMwLjA=.m3u8
-CindyBKK,https://edge5-lax.live.mmcdn.com/live-hls/amlst:cindybkk-sd-23ce3841f717ff10a84d9dcfab0a7ae6fda153c3d96c109d97901199c35aca35_trns_h264/chunklist_w1640762044_b3096000_t64RlBTOjMwLjA=.m3u8
+meitin7,https://edge7-sea.live.mmcdn.com/live-hls/amlst:mei_tin-sd-a185fd01f1618152a0243043e1b08f2d5d9076a5fd10cbf971e91af53de3b6a1_trns_h264/chunklist_w1770984091_b5128000_t64RlBTOjMwLjA=.m3u8
+VonnaLein,https://edge7-slc.live.mmcdn.com/live-hls/amlst:vonnalein-sd-153a0bcfba2192e5585d01da3f9a581398024129a71f5c33bd89bd53035e141e_trns_h264/chunklist_w1511417210_b5128000_t64RlBTOjMwLjA=.m3u8
+mary_shiota,https://edge11-slc.live.mmcdn.com/live-hls/amlst:mary_shiota-sd-779e047253285dcc7b8b3a59a44596d3b353bb3b00c9da7e900e3b78b2402f6d_trns_h264/chunklist_w1772277717_b5128000_t64RlBTOjMwLjA=.m3u8
+jenny__lii,https://edge13-lax.live.mmcdn.com/live-hls/amlst:jenny__lii-sd-e18f6345702776fba9039baee457daa21f8d070e37b7b655ff22a40d379f094d_trns_h264/chunklist_w8861453_b5128000_t64RlBTOjMwLjA=.m3u8
+nori_78,https://edge6-sea.live.mmcdn.com/live-hls/amlst:nori_78-sd-4262b7b64c7f48962346a1ae732bc2602296bbd8c990bac05d36fd9ddc4d4353_trns_h264/chunklist_w684731750_b5128000_t64RlBTOjMwLjA=.m3u8
+tom__yam3,https://edge4-lax.live.mmcdn.com/live-hls/amlst:tom__yam3-sd-2e4ff4beaebb545ad9fffd89b522ba3ce3fc55c73fcaf0f821c684ee5a0ef439_trns_h264/chunklist_w1596063443_b5128000_t64RlBTOjMwLjA=.m3u8
+kitana_55,https://edge2-sea.live.mmcdn.com/live-hls/amlst:kitana_55-sd-57a6700f69637d871c156072d3942b2ef49b5fd9d0aab330f236b8d40d15eb9c_trns_h264/chunklist_w2079162747_b5128000_t64RlBTOjIzLjk4.m3u8
+sia_moon,https://edge11-lax.live.mmcdn.com/live-hls/amlst:sia_moon-sd-ec4bd51d14e93eb2b63f8f5c8f3f1f4c5d25302bf3cb6a03b925db57455aa061_trns_h264/chunklist_w198782488_b5128000_t64RlBTOjMwLjA=.m3u8
+nakayamaa,https://edge11-lax.live.mmcdn.com/live-hls/amlst:nakayamaa-sd-4864173c1fc24af3d13c907673a46877c9e09ed66e38a74fe7cba9197b5260f6_trns_h264/chunklist_w1290836883_b5128000_t64RlBTOjMwLjA=.m3u8
+tom__yam3,https://edge4-lax.live.mmcdn.com/live-hls/amlst:tom__yam3-sd-2e4ff4beaebb545ad9fffd89b522ba3ce3fc55c73fcaf0f821c684ee5a0ef439_trns_h264/chunklist_w244522335_b5128000_t64RlBTOjMwLjA=.m3u8
+yuna_03,https://edge7-lax.live.mmcdn.com/live-hls/amlst:yuna_03-sd-83b4c82ff9bd8df6481760030aab7b7146343ca03a44c790682d0da2931a2ae2_trns_h264/chunklist_w1156560508_b5128000_t64RlBTOjMwLjA=.m3u8
+
 
 日本,#genre#
 
