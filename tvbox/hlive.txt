@@ -61,6 +61,8 @@
 
 直播,#genre#
 
+Amaya,https://edge3-sea.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-de6c9766032239435354de37db1d83bf85c97527c2323838c7b9dda6447edfae_trns_h264/chunklist_w1779571403_b3096000_t64RlBTOjMwLjA=.m3u8
+
 SexyDoll_JOJO,https://edge-hls.doppiocdn.com/hls/81368539/master/81368539.m3u8
 Littlelucky_,https://edge-hls.doppiocdn.com/hls/92787952/master/92787952.m3u8
 Swag_SASA,https://edge-hls.doppiocdn.com/hls/87862444/master/87862444.m3u8
