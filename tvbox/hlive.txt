@@ -76,7 +76,8 @@ sia_moon,https://edge11-lax.live.mmcdn.com/live-hls/amlst:sia_moon-sd-ec4bd51d14
 nakayamaa,https://edge11-lax.live.mmcdn.com/live-hls/amlst:nakayamaa-sd-4864173c1fc24af3d13c907673a46877c9e09ed66e38a74fe7cba9197b5260f6_trns_h264/chunklist_w1290836883_b5128000_t64RlBTOjMwLjA=.m3u8
 tom__yam3,https://edge4-lax.live.mmcdn.com/live-hls/amlst:tom__yam3-sd-2e4ff4beaebb545ad9fffd89b522ba3ce3fc55c73fcaf0f821c684ee5a0ef439_trns_h264/chunklist_w244522335_b5128000_t64RlBTOjMwLjA=.m3u8
 yuna_03,https://edge7-lax.live.mmcdn.com/live-hls/amlst:yuna_03-sd-83b4c82ff9bd8df6481760030aab7b7146343ca03a44c790682d0da2931a2ae2_trns_h264/chunklist_w1156560508_b5128000_t64RlBTOjMwLjA=.m3u8
-
+succuba_,https://edge16-lax.live.mmcdn.com/live-hls/amlst:succuba_-sd-bedf1e2ef48a6421d4b614d6b0c6305e0778b6597ef7667f35aae2dcf1b3499b_trns_h264/chunklist_w1264508001_b5128000_t64RlBTOjIzLjk4.m3u8
+ayanami11,https://edge2-lax.live.mmcdn.com/live-hls/amlst:ayanami11-sd-ec398ae7699a2a114a49dbd21ae5ca730c9dd5a120803b0be8e7d75afab1c1c4_trns_h264/chunklist_w414316960_b5128000_t64RlBTOjMwLjA=.m3u8
 
 日本,#genre#
 
