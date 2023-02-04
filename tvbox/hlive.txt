@@ -82,6 +82,13 @@ asuna_moon,https://edge10-lax.live.mmcdn.com/live-hls/amlst:asuna_moon-sd-10e537
 tokpokki_m,https://edge5-lax.live.mmcdn.com/live-hls/amlst:tokpokki_m-sd-64f468e8c7a283f7ce675a7db2aa71b200712e763a70ce8abd2f0d304facc467_trns_h264/chunklist_w1502161486_b5128000_t64RlBTOjMwLjA=.m3u8
 aimetyan,https://edge98.stream.highwebmedia.com/live-hls/amlst:aimetyan-sd-beccb13f04bb39819612a4a7b0bd90ee32cc5671d232ad32e373edb302f5689d_trns_h264/chunklist_w561285398_b5128000_t64RlBTOjMwLjA=.m3u8
 maybenanako,https://edge4-lax.live.mmcdn.com/live-hls/amlst:maybenanako-sd-454894b32a71a0905ad9dd4ed366dd823b14bee541d2693a25592e7dfe3a8c7b_trns_h264/chunklist_w2017850702_b5128000_t64RlBTOjMwLjA=.m3u8
+juliabeng1,https://edge4-slc.live.mmcdn.com/live-hls/amlst:juliabeng1-sd-d05f4621db72dce1a57092c880273c54c81f6c674fdaed625b7085b213360803_trns_h264/chunklist_w809820714_b5128000_t64RlBTOjMwLjA=.m3u8
+janetta_c,https://edge1-lax.live.mmcdn.com/live-hls/amlst:janetta_c-sd-0947b244c50bb3336e5ef41590f12917e6b04dcb87521fcee23ae8039d97684c_trns_h264/chunklist_w1918520875_b5128000_t64RlBTOjMwLjA=.m3u8
+ami_amaya,https://edge3-lax.live.mmcdn.com/live-hls/amlst:ami_amaya-sd-b383bd0c83f3b085662734289151a918fbeb4b240fe7036a1a185c365727f03e_trns_h264/chunklist_w1761491159_b3096000_t64RlBTOjMwLjA=.m3u8
+kasumi_12,https://edge8-sea.live.mmcdn.com/live-hls/amlst:kasumi_12-sd-525620b9866999923ea6c3b22eaa9747b0424b4eb48f905a8e869beff499f905_trns_h264/chunklist_w1936418429_b5128000_t64RlBTOjMwLjA=.m3u8
+baananaswett,https://edge16-lax.live.mmcdn.com/live-hls/amlst:baananaswett-sd-226442ba18fca7c48ee9b92660bc9e3407b84e548a152b5141d1515bd3187c1c_trns_h264/chunklist_w1993125982_b3096000_t64RlBTOjMwLjA=.m3u8
+ku_ling,https://edge6-lax.live.mmcdn.com/live-hls/amlst:ku_ling-sd-b59846e3032c4e9e0bf4e4da10fc3a7aff393c48ad40e2f8bf48ee1c477a08db_trns_h264/chunklist_w837384533_b5128000_t64RlBTOjMwLjA=.m3u8
+jinnloveu,https://edge1-lax.live.mmcdn.com/live-hls/amlst:jinnloveu-sd-1866264438022dfb9cbeb1ab825442c0234918c68d51296d08ae87fe64279294_trns_h264/chunklist_w550028151_b5128000_t64RlBTOjI5Ljk3.m3u8
 
 
 日本,#genre#
