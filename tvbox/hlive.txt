@@ -61,8 +61,9 @@
 
 chaturbate直播,#genre#
 
-Amaya,https://edge3-sea.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-de6c9766032239435354de37db1d83bf85c97527c2323838c7b9dda6447edfae_trns_h264/chunklist_w1779571403_b3096000_t64RlBTOjMwLjA=.m3u8
-Amaya,https://edge14-lax.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-de6c9766032239435354de37db1d83bf85c97527c2323838c7b9dda6447edfae_trns_h264/chunklist_w377268962_b1148000_t64RlBTOjMwLjA=.m3u8
+amaya_mori,https://edge2-slc.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-87de1ef88cedb739fd5ab8950bff78161e212ab1064a689c3a77fb5461ceb240_trns_h264/chunklist_w387602733_b5128000_t64RlBTOjMwLjA=.m3u8
+amaya_mori,https://edge3-sea.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-de6c9766032239435354de37db1d83bf85c97527c2323838c7b9dda6447edfae_trns_h264/chunklist_w1779571403_b3096000_t64RlBTOjMwLjA=.m3u8
+amaya_mori,https://edge14-lax.live.mmcdn.com/live-hls/amlst:amaya_mori-sd-de6c9766032239435354de37db1d83bf85c97527c2323838c7b9dda6447edfae_trns_h264/chunklist_w377268962_b1148000_t64RlBTOjMwLjA=.m3u8
 Yui ^^,https://edge7-lax.live.mmcdn.com/live-hls/amlst:peow_peow_-sd-aac77367c2543ca7106a9b3517fb9d9f62fe4173ebceeebb612780983f34afdc_trns_h264/chunklist_w1651956300_b3096000_t64RlBTOjI5Ljk3.m3u8
 CindyBKK,https://edge5-lax.live.mmcdn.com/live-hls/amlst:cindybkk-sd-23ce3841f717ff10a84d9dcfab0a7ae6fda153c3d96c109d97901199c35aca35_trns_h264/chunklist_w1640762044_b5128000_t64RlBTOjMwLjA=.m3u8
 meitin7,https://edge7-sea.live.mmcdn.com/live-hls/amlst:mei_tin-sd-a185fd01f1618152a0243043e1b08f2d5d9076a5fd10cbf971e91af53de3b6a1_trns_h264/chunklist_w1770984091_b5128000_t64RlBTOjMwLjA=.m3u8
