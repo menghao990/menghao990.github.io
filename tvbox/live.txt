@@ -1,4 +1,4 @@
-央视,#genre#
+电视直播,#genre#
 
 河南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
 河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
@@ -42,41 +42,6 @@ CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV-16 奥林匹克4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV-17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV-4K,http://live.cooltv.top/tv/cctv4k_backup.php
-CCTV-1 综合,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
-CCTV-2 财经,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
-CCTV-3 综艺,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
-CCTV-4 中文国际,https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
-CCTV-5 体育,https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
-CCTV-5+ 体育赛事,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
-CCTV-6 电影,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
-CCTV-7 国防军事,https://live.v1.mk/api/ghyx.php?id=CCTV7HD_6000
-CCTV-8 电视剧,https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
-CCTV-9 纪录,https://live.v1.mk/api/ghyx.php?id=CCTV9HD_6000
-CCTV-10 科教,https://live.v1.mk/api/ghyx.php?id=CCTV10HD_6000
-CCTV-11 戏曲,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
-CCTV-12 社会与法,https://live.v1.mk/api/ghyx.php?id=CCTV12HD_6000
-CCTV-13 新闻,https://live.v1.mk/api/ghyx.php?id=CCTV13HD_2000
-CCTV-14 少儿,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000
-CCTV-15 音乐,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
-CCTV-16 奥林匹克,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
-CCTV-17 农业农村,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
-CCTV-1 综合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV-2 财经,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV-3 综艺,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV-4 中文国际,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV-5 体育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV-6 电影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CCTV-7 国防军事,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV-8 电视剧,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV-9 纪录,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV-10 科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV-11 戏曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV-12 社会与法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV-13 新闻,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV-14 少儿,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV-15 音乐,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV-17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
 CHC电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
 CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
@@ -87,9 +52,6 @@ CCTV风云足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/de
 CCTV怀旧剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
 CCTV第一剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
 CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
-
-地方,#genre#
-
 河南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
 河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
 东南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
