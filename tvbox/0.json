@@ -201,16 +201,6 @@
             "filterable": 0,
             "ext": "https://yydsys.top/duo/json/%E8%99%8E%E7%89%99.json"
         },
- {
-      "key": "csp_biubiu_斗鱼",
-      "name": "斗鱼直播",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/%E6%96%97%E9%B1%BC.json"     
-    },
         {
             "key": "网易CC",
             "name": "网易直播",
