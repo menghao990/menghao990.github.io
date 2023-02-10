@@ -1,6 +1,15 @@
 {
     "sites": [
         {
+            "key": "Bttoo",
+            "name": "Bttoo(爬虫)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "图图",
             "name": "TT(爬虫)",
             "type": 3,

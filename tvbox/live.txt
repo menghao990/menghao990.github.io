@@ -74,3 +74,14 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 湖北卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
 贵州卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
 重庆卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
+
+网络直播,#genre#
+
+拉风龙,http://epg.112114.eu.org/huya/88863
+九道湾小霸王,http://epg.112114.eu.org/huya/331057
+张大仙,http://epg.112114.eu.org/huya/688
+大司马,http://epg.112114.eu.org/douyu/606118
+周淑怡,http://epg.112114.eu.org/douyu/290935
+PDD,http://epg.112114.eu.org/douyu/101
+一条小团团,http://epg.112114.eu.org/douyu/2222
+呆妹儿小霸王,http://epg.112114.eu.org/douyu/92000
