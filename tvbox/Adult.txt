@@ -263,6 +263,32 @@ https://edge-hls.doppiocdn.com/hls/103193624/master/103193624.m3u8
 https://edge-hls.doppiocdn.com/hls/97387427/master/97387427.m3u8
 #EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",loveluxia
 https://edge-hls.doppiocdn.com/hls/92494096/master/92494096.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",SM_siqing
+https://edge-hls.doppiocdn.com/hls/96348688/master/96348688.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",Elena_best
+https://edge-hls.doppiocdn.com/hls/75130636/master/75130636.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",CAiHongtutu
+https://edge-hls.doppiocdn.com/hls/94875788/master/94875788.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",-SpunSugar_
+https://edge-hls.doppiocdn.com/hls/97228656/master/97228656.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",JessyRey
+https://edge-hls.doppiocdn.com/hls/33235663/master/33235663.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",Eva-Lung
+https://edge-hls.doppiocdn.com/hls/76999915/master/76999915.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",SophieBaley
+https://edge-hls.doppiocdn.com/hls/87856098/master/87856098.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",ShyChi
+https://edge-hls.doppiocdn.com/hls/101460943/master/101460943.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",amandateasingg_
+https://edge-hls.doppiocdn.com/hls/85624527/master/85624527.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",YourHobby
+https://edge-hls.doppiocdn.com/hls/20166219/master/20166219.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",Makabaka66
+https://edge-hls.doppiocdn.com/hls/87923970/master/87923970.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",CelestialFoxxx
+https://edge-hls.doppiocdn.com/hls/84480977/master/84480977.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/01/30/y0zzj7.webp" group-title="直播",DiamondJo_
+https://edge-hls.doppiocdn.com/hls/102365918/master/102365918.m3u8
 #EXTINF:-1 group-title="日本",ssni-895新名
 https://t5s.cdn2020.com/video/m3u8/2020/10/24/47f23b08/index.m3u8
 #EXTINF:-1 group-title="日本",ssni-872新名
