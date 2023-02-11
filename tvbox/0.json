@@ -21,41 +21,10 @@
             "ext": ""
         },
         {
-            "key": "Lezhu_spider",
-            "name": "乐猪影视",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
-        {
-            "key": "yanetflix_spider",
-            "name": "鸭奈飞",
-            "api": "csp_YaNetFlix",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
-        {
             "key": "csp_panghu",
             "name": "胖虎",
             "type": 3,
             "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Cokemv",
-            "name": "可乐",
-            "type": 3,
-            "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -87,36 +56,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "sliu_spider",
-            "name": "石榴电影",
-            "api": "csp_ShiLiuDY",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_biubiu_voflix",
-            "name": "voflix",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"
-        },
-        {
-            "key": "csp_xbb_voflix",
-            "name": "  Voflix2",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/mabox/box/raw/branch/main/json/voflix.json"
         },
         {
             "key": "csp_DiDuan",
