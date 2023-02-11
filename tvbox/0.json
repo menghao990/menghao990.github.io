@@ -84,6 +84,35 @@
             "quickSearch": 1,
             "filterable": 1
         },
+    {
+      "key": "Lezhu_spider",
+      "name": "乐猪1",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"csp_xBPQ_乐猪影视",
+      "name":"乐猪2",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./json/lezhu.json"
+      },
+{
+      "key": "csp_biubiu_voflix",
+      "name": "voflix",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/voflix.json"
+    },
         {
             "key": "Gitcafe",
             "name": "小纸条(爬虫)",
@@ -189,6 +218,16 @@
             "filterable": 0,
             "ext": "https://yydsys.top/duo/js/哔哩直播.js"
         },
+{
+      "key": "csp_biubiu_斗鱼",
+      "name": "斗鱼",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/%E6%96%97%E9%B1%BC.json"     
+    },
         {
             "key": "csp_XYQHiker_虎牙直播",
             "name": "虎牙直播",
