@@ -97,7 +97,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/mabox/box/raw/branch/main/json/voflix.json"
-        },
+            },
         {
             "key": "csp_DiDuan",
             "name": "低端(SP)",
