@@ -10,7 +10,10 @@
         },
         {
             "url": "https://menghao990.github.io/tvbox/0.json",
-            "name": "个人源"
+            "name": "个人源1"
+        },{
+            "url": "https://menghao990.github.io/tvbox/tvbox.json",
+            "name": "个人源2"
         },
         {
             "url": "http://饭太硬.ga/x/o.json",
