@@ -85,3 +85,4 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 PDD,http://epg.112114.eu.org/douyu/101
 一条小团团,http://epg.112114.eu.org/douyu/2222
 呆妹儿小霸王,http://epg.112114.eu.org/douyu/92000
+amaya_mori,https://edge165.stream.highwebmedia.com/live-hls/amlst:amaya_mori-sd-ea20e88989d6c0ddc727f79d0b7afe8c21c5524b109b5fa82ac386708ae2e664_trns_h264/chunklist_w1699890759_b5128000_t64RlBTOjMwLjA=.m3u8
