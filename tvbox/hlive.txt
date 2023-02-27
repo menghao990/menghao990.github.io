@@ -2404,7 +2404,6 @@ Unknown_293,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/10049/index.m3u8
 Unknown_294,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/18138/index.m3u8
 Unknown_295,http://193.33.240.8:80/hustler_hd/video.m3u8
 Unknown_296,http://193.33.240.8:80/hustler_hd/index.m3u8
-Unknown_297,https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
 Unknown_298,http://go.iptvhn.net:25461/Denis/Denis123/6648
 Unknown_299,http://go.iptvhn.net:25461/Denis/Denis123/6602
 Unknown_300,http://go.iptvhn.net:25461/Denis/Denis123/6853
