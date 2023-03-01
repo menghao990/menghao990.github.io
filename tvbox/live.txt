@@ -1,27 +1,6 @@
 电视直播,#genre#
 
-河南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
-河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
-CCTV-1 综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-2 财经,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-3 综艺,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV-4 中文国际,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV-5 体育,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV-5+ 体育赛事,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-CCTV-6 电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-CCTV-7 国防军事,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-CCTV-8 电视剧,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-CCTV-9 纪录,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-CCTV-10 科教,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV-11 戏曲,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV-12 社会与法,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-CCTV-13 新闻,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV-14 少儿,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-CCTV-15 音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-CCTV-16 奥林匹克,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-CCTV-16 奥林匹克4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-CCTV-17 农业农村,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-CCTV-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
+河南卫视,http://iptva.cn/api/M3u8/Index?id=626&card=99982475359
 CCTV-1 综合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV-2 财经,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV-3 综艺,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
@@ -42,58 +21,27 @@ CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV-16 奥林匹克4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV-17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV-4K,http://live.cooltv.top/tv/cctv4k_backup.php
-CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
-CHC电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
-CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
-CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
-CCTV风云足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-CCTV怀旧剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-CCTV第一剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
-安徽卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
-北京卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
-浙江卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
-江苏卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
-湖南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
-辽宁卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
-黑龙江卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
-东方卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
-云南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
-吉林卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
-四川卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
-天津卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
-宁夏卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
-广东卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
-广西卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
-江西卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
-河北卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
-深圳卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
-东南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
-湖北卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
-贵州卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
-重庆卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
 
 电视直播(备用),#genre#
 
-CCTV1,http://iptva.cn/api/M3u8/Index?id=597&card=99982475359
-CCTV2,http://iptva.cn/api/M3u8/Index?id=598&card=99982475359
-CCTV3,http://iptva.cn/api/M3u8/Index?id=599&card=99982475359
-CCTV4,http://iptva.cn/api/M3u8/Index?id=600&card=99982475359
-CCTV5,http://iptva.cn/api/M3u8/Index?id=601&card=99982475359
-CCTV5+,http://iptva.cn/api/M3u8/Index?id=602&card=99982475359
-CCTV6,http://iptva.cn/api/M3u8/Index?id=603&card=99982475359
-CCTV7,http://iptva.cn/api/M3u8/Index?id=604&card=99982475359
-CCTV8,http://iptva.cn/api/M3u8/Index?id=605&card=99982475359
-CCTV9,http://iptva.cn/api/M3u8/Index?id=606&card=99982475359
-CCTV10,http://iptva.cn/api/M3u8/Index?id=607&card=99982475359
-CCTV11,http://iptva.cn/api/M3u8/Index?id=608&card=99982475359
-CCTV12,http://iptva.cn/api/M3u8/Index?id=609&card=99982475359
-CCTV14,http://iptva.cn/api/M3u8/Index?id=611&card=99982475359
-CCTV15,http://iptva.cn/api/M3u8/Index?id=612&card=99982475359
-CCTV16,http://iptva.cn/api/M3u8/Index?id=613&card=99982475359
-CCTV17,http://iptva.cn/api/M3u8/Index?id=614&card=99982475359
+CCTV-1 综合,http://iptva.cn/api/M3u8/Index?id=597&card=99982475359
+CCTV2 财经,http://iptva.cn/api/M3u8/Index?id=598&card=99982475359
+CCTV-3 综艺,http://iptva.cn/api/M3u8/Index?id=599&card=99982475359
+CCTV-4 中文国际,http://iptva.cn/api/M3u8/Index?id=600&card=99982475359
+CCTV-5 体育,http://iptva.cn/api/M3u8/Index?id=601&card=99982475359
+CCTV-5+ 体育赛事,http://iptva.cn/api/M3u8/Index?id=602&card=99982475359
+CCTV-6 电影,http://iptva.cn/api/M3u8/Index?id=603&card=99982475359
+CCTV-7 国防军事,http://iptva.cn/api/M3u8/Index?id=604&card=99982475359
+CCTV-8 电视剧,http://iptva.cn/api/M3u8/Index?id=605&card=99982475359
+CCTV-9 纪录,http://iptva.cn/api/M3u8/Index?id=606&card=99982475359
+CCTV-10 科教,http://iptva.cn/api/M3u8/Index?id=607&card=99982475359
+CCTV-11 戏曲,http://iptva.cn/api/M3u8/Index?id=608&card=99982475359
+CCTV-12 社会与法,http://iptva.cn/api/M3u8/Index?id=609&card=99982475359
+CCTV-13 新闻,http://iptva.cn/api/M3u8/Index?id=610&card=99982475359
+CCTV-14 少儿,http://iptva.cn/api/M3u8/Index?id=611&card=99982475359
+CCTV-15 音乐,http://iptva.cn/api/M3u8/Index?id=612&card=99982475359
+CCTV-16 奥林匹克,http://iptva.cn/api/M3u8/Index?id=613&card=99982475359
+CCTV-17 农业农村,http://iptva.cn/api/M3u8/Index?id=614&card=99982475359
 风云足球,http://iptva.cn/api/M3u8/Index?id=615&card=99982475359
 湖南卫视,http://iptva.cn/api/M3u8/Index?id=616&card=99982475359
 浙江卫视,http://iptva.cn/api/M3u8/Index?id=617&card=99982475359
@@ -121,24 +69,24 @@ CCTV17,http://iptva.cn/api/M3u8/Index?id=614&card=99982475359
 广西卫视,http://iptva.cn/api/M3u8/Index?id=640&card=99982475359
 甘肃卫视,http://iptva.cn/api/M3u8/Index?id=641&card=99982475359
 西藏卫视,http://iptva.cn/api/M3u8/Index?id=647&card=99982475359
-CCTV1,http://iptva.cn/api/M3u8/Index?id=648&card=99982475359
-CCTV2,http://iptva.cn/api/M3u8/Index?id=649&card=99982475359
-CCTV3,http://iptva.cn/api/M3u8/Index?id=650&card=99982475359
-CCTV4,http://iptva.cn/api/M3u8/Index?id=651&card=99982475359
-CCTV5,http://iptva.cn/api/M3u8/Index?id=652&card=99982475359
-CCTV5+,http://iptva.cn/api/M3u8/Index?id=653&card=99982475359
-CCTV6,http://iptva.cn/api/M3u8/Index?id=654&card=99982475359
-CCTV7,http://iptva.cn/api/M3u8/Index?id=655&card=99982475359
-CCTV8,http://iptva.cn/api/M3u8/Index?id=656&card=99982475359
-CCTV9,http://iptva.cn/api/M3u8/Index?id=657&card=99982475359
-CCTV10,http://iptva.cn/api/M3u8/Index?id=658&card=99982475359
-CCTV11,http://iptva.cn/api/M3u8/Index?id=659&card=99982475359
-CCTV12,http://iptva.cn/api/M3u8/Index?id=660&card=99982475359
-CCTV13,http://iptva.cn/api/M3u8/Index?id=661&card=99982475359
-CCTV14,http://iptva.cn/api/M3u8/Index?id=662&card=99982475359
-CCTV15,http://iptva.cn/api/M3u8/Index?id=663&card=99982475359
-CCTV16,http://iptva.cn/api/M3u8/Index?id=664&card=99982475359
-CCTV17,http://iptva.cn/api/M3u8/Index?id=665&card=99982475359
+CCTV-1 综合,http://iptva.cn/api/M3u8/Index?id=648&card=99982475359
+CCTV2 财经,http://iptva.cn/api/M3u8/Index?id=649&card=99982475359
+CCTV-3 综艺,http://iptva.cn/api/M3u8/Index?id=650&card=99982475359
+CCTV-4 中文国际,http://iptva.cn/api/M3u8/Index?id=651&card=99982475359
+CCTV-5 体育,http://iptva.cn/api/M3u8/Index?id=652&card=99982475359
+CCTV-5+ 体育赛事,http://iptva.cn/api/M3u8/Index?id=653&card=99982475359
+CCTV-6 电影,http://iptva.cn/api/M3u8/Index?id=654&card=99982475359
+CCTV-7 国防军事,http://iptva.cn/api/M3u8/Index?id=655&card=99982475359
+CCTV-8 电视剧,http://iptva.cn/api/M3u8/Index?id=656&card=99982475359
+CCTV-9 纪录,http://iptva.cn/api/M3u8/Index?id=657&card=99982475359
+CCTV-10 科教,http://iptva.cn/api/M3u8/Index?id=658&card=99982475359
+CCTV-11 戏曲,http://iptva.cn/api/M3u8/Index?id=659&card=99982475359
+CCTV-12 社会与法,http://iptva.cn/api/M3u8/Index?id=660&card=99982475359
+CCTV-13 新闻,http://iptva.cn/api/M3u8/Index?id=661&card=99982475359
+CCTV-14 少儿,http://iptva.cn/api/M3u8/Index?id=662&card=99982475359
+CCTV-15 音乐,http://iptva.cn/api/M3u8/Index?id=663&card=99982475359
+CCTV-16 奥林匹克,http://iptva.cn/api/M3u8/Index?id=664&card=99982475359
+CCTV-17 农业农村,http://iptva.cn/api/M3u8/Index?id=665&card=99982475359
 风云足球,http://iptva.cn/api/M3u8/Index?id=666&card=99982475359
 湖南卫视,http://iptva.cn/api/M3u8/Index?id=667&card=99982475359
 浙江卫视,http://iptva.cn/api/M3u8/Index?id=668&card=99982475359
@@ -170,53 +118,6 @@ CCTV17,http://iptva.cn/api/M3u8/Index?id=665&card=99982475359
 青海卫视,http://iptva.cn/api/M3u8/Index?id=696&card=99982475359
 新疆卫视,http://iptva.cn/api/M3u8/Index?id=697&card=99982475359
 西藏卫视,http://iptva.cn/api/M3u8/Index?id=698&card=99982475359
-CCTV1,http://iptva.cn/api/M3u8/Index?id=699&card=99982475359
-CCTV2,http://iptva.cn/api/M3u8/Index?id=700&card=99982475359
-CCTV3,http://iptva.cn/api/M3u8/Index?id=701&card=99982475359
-CCTV4,http://iptva.cn/api/M3u8/Index?id=702&card=99982475359
-CCTV5,http://iptva.cn/api/M3u8/Index?id=703&card=99982475359
-CCTV5+,http://iptva.cn/api/M3u8/Index?id=704&card=99982475359
-CCTV6,http://iptva.cn/api/M3u8/Index?id=705&card=99982475359
-CCTV7,http://iptva.cn/api/M3u8/Index?id=706&card=99982475359
-CCTV8,http://iptva.cn/api/M3u8/Index?id=707&card=99982475359
-CCTV9,http://iptva.cn/api/M3u8/Index?id=708&card=99982475359
-CCTV10,http://iptva.cn/api/M3u8/Index?id=709&card=99982475359
-CCTV11,http://iptva.cn/api/M3u8/Index?id=710&card=99982475359
-CCTV12,http://iptva.cn/api/M3u8/Index?id=711&card=99982475359
-CCTV13,http://iptva.cn/api/M3u8/Index?id=712&card=99982475359
-CCTV14,http://iptva.cn/api/M3u8/Index?id=713&card=99982475359
-CCTV15,http://iptva.cn/api/M3u8/Index?id=714&card=99982475359
-CCTV16,http://iptva.cn/api/M3u8/Index?id=715&card=99982475359
-CCTV17,http://iptva.cn/api/M3u8/Index?id=716&card=99982475359
-风云足球,http://iptva.cn/api/M3u8/Index?id=717&card=99982475359
-湖南卫视,http://iptva.cn/api/M3u8/Index?id=718&card=99982475359
-浙江卫视,http://iptva.cn/api/M3u8/Index?id=719&card=99982475359
-江苏卫视,http://iptva.cn/api/M3u8/Index?id=720&card=99982475359
-东方卫视,http://iptva.cn/api/M3u8/Index?id=721&card=99982475359
-北京卫视,http://iptva.cn/api/M3u8/Index?id=722&card=99982475359
-天津卫视,http://iptva.cn/api/M3u8/Index?id=723&card=99982475359
-广东卫视,http://iptva.cn/api/M3u8/Index?id=724&card=99982475359
-深圳卫视,http://iptva.cn/api/M3u8/Index?id=725&card=99982475359
-东南卫视,http://iptva.cn/api/M3u8/Index?id=726&card=99982475359
-河南卫视,http://iptva.cn/api/M3u8/Index?id=728&card=99982475359
-河北卫视,http://iptva.cn/api/M3u8/Index?id=729&card=99982475359
-安徽卫视,http://iptva.cn/api/M3u8/Index?id=730&card=99982475359
-湖北卫视,http://iptva.cn/api/M3u8/Index?id=731&card=99982475359
-江西卫视,http://iptva.cn/api/M3u8/Index?id=732&card=99982475359
-贵州卫视,http://iptva.cn/api/M3u8/Index?id=733&card=99982475359
-重庆卫视,http://iptva.cn/api/M3u8/Index?id=734&card=99982475359
-海南卫视,http://iptva.cn/api/M3u8/Index?id=735&card=99982475359
-四川卫视,http://iptva.cn/api/M3u8/Index?id=736&card=99982475359
-吉林卫视,http://iptva.cn/api/M3u8/Index?id=737&card=99982475359
-黑龙江卫视,http://iptva.cn/api/M3u8/Index?id=738&card=99982475359
-云南卫视,http://iptva.cn/api/M3u8/Index?id=739&card=99982475359
-辽宁卫视,http://iptva.cn/api/M3u8/Index?id=740&card=99982475359
-广西卫视,http://iptva.cn/api/M3u8/Index?id=742&card=99982475359
-山西卫视,http://iptva.cn/api/M3u8/Index?id=745&card=99982475359
-宁夏卫视,http://iptva.cn/api/M3u8/Index?id=746&card=99982475359
-青海卫视,http://iptva.cn/api/M3u8/Index?id=747&card=99982475359
-新疆卫视,http://iptva.cn/api/M3u8/Index?id=748&card=99982475359
-西藏卫视,http://iptva.cn/api/M3u8/Index?id=749&card=99982475359
 BTV文艺,http://iptva.cn/api/M3u8/Index?id=958&card=99982475359
 BTV影视,http://iptva.cn/api/M3u8/Index?id=962&card=99982475359
 BTV财经,http://iptva.cn/api/M3u8/Index?id=964&card=99982475359
@@ -231,7 +132,6 @@ BTV新闻,http://iptva.cn/api/M3u8/Index?id=972&card=99982475359
 上海第一财经,http://iptva.cn/api/M3u8/Index?id=984&card=99982475359
 哈哈炫动,http://iptva.cn/api/M3u8/Index?id=986&card=99982475359
 广东体育,http://iptva.cn/api/M3u8/Index?id=999&card=99982475359
-广东体育（备）,http://iptva.cn/api/M3u8/Index?id=1000&card=99982475359
 大湾区卫视,http://iptva.cn/api/M3u8/Index?id=1002&card=99982475359
 广州,http://iptva.cn/api/M3u8/Index?id=1003&card=99982475359
 南国都市,http://iptva.cn/api/M3u8/Index?id=1004&card=99982475359
@@ -306,7 +206,6 @@ BTV新闻,http://iptva.cn/api/M3u8/Index?id=972&card=99982475359
 湖南金鹰卡通,http://iptva.cn/api/M3u8/Index?id=1085&card=99982475359
 金鹰纪实,http://iptva.cn/api/M3u8/Index?id=1086&card=99982475359
 湘潭综合,http://iptva.cn/api/M3u8/Index?id=1087&card=99982475359
-娄底综合频道,http://iptva.cn/api/M3u8/Index?id=1089&card=99982475359
 淮南新闻综合,http://iptva.cn/api/M3u8/Index?id=1091&card=99982475359
 淮南公共台,http://iptva.cn/api/M3u8/Index?id=1092&card=99982475359
 东至综合台,http://iptva.cn/api/M3u8/Index?id=1093&card=99982475359
@@ -326,25 +225,14 @@ BTV新闻,http://iptva.cn/api/M3u8/Index?id=972&card=99982475359
 甘肃公共,http://iptva.cn/api/M3u8/Index?id=1114&card=99982475359
 甘肃少儿,http://iptva.cn/api/M3u8/Index?id=1115&card=99982475359
 甘肃都市,http://iptva.cn/api/M3u8/Index?id=1116&card=99982475359
-天水综合,http://iptva.cn/api/M3u8/Index?id=1117&card=99982475359
-天水公共,http://iptva.cn/api/M3u8/Index?id=1118&card=99982475359
 昆明新闻综合,http://iptva.cn/api/M3u8/Index?id=1119&card=99982475359
 昆明经济生活,http://iptva.cn/api/M3u8/Index?id=1120&card=99982475359
 昆明科学教育,http://iptva.cn/api/M3u8/Index?id=1121&card=99982475359
-昆明影视综艺,http://iptva.cn/api/M3u8/Index?id=1122&card=99982475359
 昆明公共,http://iptva.cn/api/M3u8/Index?id=1123&card=99982475359
 文山综合,http://iptva.cn/api/M3u8/Index?id=1124&card=99982475359
 文山公共,http://iptva.cn/api/M3u8/Index?id=1125&card=99982475359
 西双版纳一,http://iptva.cn/api/M3u8/Index?id=1126&card=99982475359
 西双版纳二,http://iptva.cn/api/M3u8/Index?id=1127&card=99982475359
-兵团卫视,http://iptva.cn/api/M3u8/Index?id=10110&card=99982475359
-重庆新闻,http://iptva.cn/api/M3u8/Index?id=10111&card=99982475359
-重庆科教,http://iptva.cn/api/M3u8/Index?id=10112&card=99982475359
-三沙卫视,http://iptva.cn/api/M3u8/Index?id=10113&card=99982475359
-重庆影视,http://iptva.cn/api/M3u8/Index?id=10114&card=99982475359
-重庆文体娱乐,http://iptva.cn/api/M3u8/Index?id=10115&card=99982475359
-重庆少儿,http://iptva.cn/api/M3u8/Index?id=10116&card=99982475359
-重庆时尚生活,http://iptva.cn/api/M3u8/Index?id=10117&card=99982475359
 南宁综合,http://iptva.cn/api/M3u8/Index?id=1135&card=99982475359
 南宁都市,http://iptva.cn/api/M3u8/Index?id=1136&card=99982475359
 南宁影视,http://iptva.cn/api/M3u8/Index?id=1137&card=99982475359
