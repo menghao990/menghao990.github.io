@@ -21,9 +21,6 @@ CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV-16 奥林匹克4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV-17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV-4K,http://live.cooltv.top/tv/cctv4k_backup.php
-
-电视直播(备用),#genre#
-
 CCTV-1 综合,http://iptva.cn/api/M3u8/Index?id=597&card=99982475359
 CCTV2 财经,http://iptva.cn/api/M3u8/Index?id=598&card=99982475359
 CCTV-3 综艺,http://iptva.cn/api/M3u8/Index?id=599&card=99982475359
