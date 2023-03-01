@@ -22,7 +22,7 @@ CCTV-16 奥林匹克4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV-17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV-4K,http://live.cooltv.top/tv/cctv4k_backup.php
 CCTV-1 综合,http://iptva.cn/api/M3u8/Index?id=597&card=99982475359
-CCTV2 财经,http://iptva.cn/api/M3u8/Index?id=598&card=99982475359
+CCTV-2 财经,http://iptva.cn/api/M3u8/Index?id=598&card=99982475359
 CCTV-3 综艺,http://iptva.cn/api/M3u8/Index?id=599&card=99982475359
 CCTV-4 中文国际,http://iptva.cn/api/M3u8/Index?id=600&card=99982475359
 CCTV-5 体育,http://iptva.cn/api/M3u8/Index?id=601&card=99982475359
@@ -67,7 +67,7 @@ CCTV-17 农业农村,http://iptva.cn/api/M3u8/Index?id=614&card=99982475359
 甘肃卫视,http://iptva.cn/api/M3u8/Index?id=641&card=99982475359
 西藏卫视,http://iptva.cn/api/M3u8/Index?id=647&card=99982475359
 CCTV-1 综合,http://iptva.cn/api/M3u8/Index?id=648&card=99982475359
-CCTV2 财经,http://iptva.cn/api/M3u8/Index?id=649&card=99982475359
+CCTV-2 财经,http://iptva.cn/api/M3u8/Index?id=649&card=99982475359
 CCTV-3 综艺,http://iptva.cn/api/M3u8/Index?id=650&card=99982475359
 CCTV-4 中文国际,http://iptva.cn/api/M3u8/Index?id=651&card=99982475359
 CCTV-5 体育,http://iptva.cn/api/M3u8/Index?id=652&card=99982475359
