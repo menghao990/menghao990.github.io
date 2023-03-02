@@ -242,10 +242,18 @@ BTV新闻,http://iptva.cn/api/M3u8/Index?id=972&card=99982475359
 网络直播,#genre#
 
 拉风龙,http://epg.112114.eu.org/huya/88863
+拉风龙,http://epg.112114.xyz/huya/88863
 九道湾小霸王,http://epg.112114.eu.org/huya/331057
+九道湾小霸王,http://epg.112114.xyz/huya/331057
 张大仙,http://epg.112114.eu.org/huya/688
+张大仙,http://epg.112114.xyz/huya/688
 大司马,http://epg.112114.eu.org/douyu/606118
+大司马,http://epg.112114.xyz/douyu/606118
 周淑怡,http://epg.112114.eu.org/douyu/290935
+周淑怡,http://epg.112114.xyz/douyu/290935
 PDD,http://epg.112114.eu.org/douyu/101
+PDD,http://epg.112114.xyz/douyu/101
 一条小团团,http://epg.112114.eu.org/douyu/2222
+一条小团团,http://epg.112114.xyz/douyu/2222
 呆妹儿小霸王,http://epg.112114.eu.org/douyu/92000
+呆妹儿小霸王,http://epg.112114.xyz/douyu/92000
