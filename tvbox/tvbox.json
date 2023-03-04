@@ -25,29 +25,21 @@
             "filterable": 1
         },
         {
-            "key": "csp_AppTT",
+            "key": "Tutu_spider",
             "name": "图图影视",
+            "api": "csp_TutuYs",
             "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+            "quickSearch": 1,
+            "searchable": 1,
+            "jar": "https://yydsys.top/duo/jar/100.jar",
+            "ext": "http://124.248.66.89:7788/"
         },
         {
             "key": "csp_CZSPP",
             "name": "厂长SP",
             "type": 3,
             "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lezhu_spider",
-            "name": "乐猪SP",
-            "type": 3,
-            "api": "csp_Lezhu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -72,28 +64,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_Bttoo",
-            "name": "Bttoo",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Cokemv",
             "name": "可乐",
             "type": 3,
             "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Lib",
-            "name": "LIB(SP)",
-            "type": 3,
-            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -107,16 +81,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://yydsys.top/duo/json/pylibvio.py"
-        },
-        {
-            "key": "csp_xp_libv",
-            "name": "LIB(XP)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/LIBVIO.json"
         },
         {
             "key": "csp_xBPQ_饭团",
@@ -158,16 +122,6 @@
             "ext": "https://yydsys.top/duo/js/ddys.js"
         },
         {
-            "key": "csp_xBPQ_石榴",
-            "name": "石榴影视",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/石榴影视.json"
-        },
-        {
             "key": "csp_biubiu_voflix",
             "name": "Voflix(XB)",
             "type": 3,
@@ -188,29 +142,10 @@
             "ext": "https://yydsys.top/duo/json/真不卡.json"
         },
         {
-            "key": "XBPQ_HDIK",
-            "name": "HDIK",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/HDIK.json"
-        },
-        {
             "key": "csp_Bd",
             "name": "哔嘀(SP)",
             "type": 3,
             "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Dy1010",
-            "name": "双十电影",
-            "type": 3,
-            "api": "csp_Dy1010",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -295,16 +230,6 @@
             "ext": "https://yydsys.top/duo/json/野荷塘.json"
         },
         {
-            "key": "YQ_jk",
-            "name": "极客影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/jike.json"
-        },
-        {
             "key": "csp_xBPQ_qiyou",
             "name": "奇优影院",
             "type": 3,
@@ -322,18 +247,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/ali/token.txt"
+            "ext": "https://yydsys.top/duo/ali/token.txt",
+            "jar": "https://yydsys.top/duo/jar/ali.jar"
         },
         {
-            "key": "csp_GitCafe",
+            "key": "小纸条2",
             "name": "小纸条2",
             "type": 3,
             "api": "csp_Gitcafe",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/ali/token.txt"
+            "ext": "https://yydsys.top/duo/ali/token.txt",
+            "jar": "https://yydsys.top/duo/jar/ali.jar"
         },
         {
             "key": "Upyunso",
@@ -464,7 +390,6 @@
             "filterable": 0,
             "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
         }
-        
     ],
     "parses": [
         {
