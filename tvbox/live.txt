@@ -51,6 +51,7 @@ CCTV-17 农业农村,http://iptva.cn/api/M3u8/Index?id=614&card=99982475359
 东南卫视,http://iptva.cn/api/M3u8/Index?id=624&card=99982475359
 山东卫视,http://iptva.cn/api/M3u8/Index?id=625&card=99982475359
 河南卫视,http://iptva.cn/api/M3u8/Index?id=626&card=99982475359
+河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
 河北卫视,http://iptva.cn/api/M3u8/Index?id=627&card=99982475359
 安徽卫视,http://iptva.cn/api/M3u8/Index?id=628&card=99982475359
 湖北卫视,http://iptva.cn/api/M3u8/Index?id=629&card=99982475359
