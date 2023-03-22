@@ -16,6 +16,16 @@
     ],
     "sites": [
         {
+            "key": "csp_xBPQ_qiyou",
+            "name": "奇优影院",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/奇优影院.json"
+        },
+        {
             "key": "小苹果",
             "name": "小苹果",
             "type": 3,
@@ -23,17 +33,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Tutu_spider",
-            "name": "图图影视",
-            "api": "csp_TutuYs",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "jar": "https://yydsys.top/duo/jar/100.jar",
-            "ext": "http://124.248.66.89:7788/"
         },
         {
             "key": "csp_CZSPP",
@@ -53,15 +52,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://yydsys.top/duo/json/lezhu.json"
-        },
-        {
-            "key": "csp_panghu",
-            "name": "胖虎影视",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Cokemv",
@@ -142,15 +132,6 @@
             "ext": "https://yydsys.top/duo/json/真不卡.json"
         },
         {
-            "key": "csp_Bd",
-            "name": "哔嘀(SP)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_xpath_yinfans",
             "name": "yinfans",
             "type": 3,
@@ -211,15 +192,6 @@
             "ext": "https://yydsys.top/duo/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
         },
         {
-            "key": "csp_AppBuLei",
-            "name": "⚡️布蕾影视",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "YQ_ht",
             "name": "️荷塘影院",
             "type": 3,
@@ -228,78 +200,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yydsys.top/duo/json/野荷塘.json"
-        },
-        {
-            "key": "csp_xBPQ_qiyou",
-            "name": "奇优影院",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/奇优影院.json"
-        },
-        {
-            "key": "csp_Paper",
-            "name": "小纸条1",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/ali/token.txt",
-            "jar": "https://yydsys.top/duo/jar/ali.jar"
-        },
-        {
-            "key": "小纸条2",
-            "name": "小纸条2",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yydsys.top/duo/ali/token.txt",
-            "jar": "https://yydsys.top/duo/jar/ali.jar"
-        },
-        {
-            "key": "Upyunso",
-            "name": "4K云搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://yydsys.top/duo/ali/token.txt"
-        },
-        {
-            "key": "Alips",
-            "name": "4盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://yydsys.top/duo/ali/token.txt"
-        },
-        {
-            "key": "Yisou",
-            "name": "4K易搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://yydsys.top/duo/ali/token.txt"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "4K找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"
         },
         {
             "key": "T4直播转点播",
@@ -389,6 +289,68 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
+        },
+        {
+            "key": "csp_Paper",
+            "name": "小纸条1",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/ali/token.txt",
+            "jar": "https://yydsys.top/duo/jar/ali.jar"
+        },
+        {
+            "key": "小纸条2",
+            "name": "小纸条2",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/ali/token.txt",
+            "jar": "https://yydsys.top/duo/jar/ali.jar"
+        },
+        {
+            "key": "Upyunso",
+            "name": "4K云搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://yydsys.top/duo/ali/token.txt"
+        },
+        {
+            "key": "Alips",
+            "name": "4盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://yydsys.top/duo/ali/token.txt"
+        },
+        {
+            "key": "Yisou",
+            "name": "4K易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://yydsys.top/duo/ali/token.txt"
+        },
+        {
+            "key": "Zhaozy",
+            "name": "4K找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"
         }
     ],
     "parses": [
