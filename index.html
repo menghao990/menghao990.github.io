@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,77 +8,115 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/乔巴.ico" media="screen" />
     <title>个人主页</title>
     <style>
-        *{margin: 0;padding: 0;}
-        li{list-style: none;}
-        a{text-decoration: none;}
-        body{background-image: url(https://api.kdcc.cn/img/);  background-attachment:fixed;}
-        .nav{
-        height: 40px;
-        margin: 0 auto;
-        opacity: 0.7;
+        * {
+            margin: 0;
+            padding: 0;
         }
-        .nav li{float: left;}
-        .nav li a{
+
+        li {
+            list-style: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        body {
+            background-image: url(https://api.kdcc.cn/img/);
+            background-attachment: fixed;
+        }
+
+        .nav {
+            height: 40px;
+            margin: 0 auto;
+            opacity: 0.7;
+        }
+
+        .nav li {
+            float: left;
+        }
+
+        .nav li a {
             display: block;
             line-height: 40px;
             width: 120px;
             text-align: center;
             font-weight: 900;
             color: #fff;
-            border:2px solid rgba(255,0,0,0.5);
-            border-radius:50% 0 50% 0;
+            border: 2px solid rgba(255, 0, 0, 0.5);
+            border-radius: 50% 0 50% 0;
             background: #6bc8ed;
-            font-family: "宋体","楷体","微软雅黑";
+            font-family: "宋体", "楷体", "微软雅黑";
         }
-        .nav li .nav2{
+
+        .nav li .nav2 {
             position: absolute;
             width: 120px;
             display: none;
         }
-        .nav li:hover .nav2{
+
+        .nav li:hover .nav2 {
             display: block;
         }
-        .nav li a:hover{color: red;}
-        .nav:hover{opacity: 1;}
-        .music{position: absolute;
-        bottom: 10px;
-        right: 0px;
-        opacity: 0.5;}
-        .ds{position: absolute;
-        top: 50%;
-        left:0px;
+
+        .nav li a:hover {
+            color: red;
         }
-        .ds span{
-            font-family:"iconfont";
-            color:red;
-            font-size:30px;
+
+        .nav:hover {
+            opacity: 1;
         }
+
+        .music {
+            position: absolute;
+            bottom: 10px;
+            right: 0px;
+            opacity: 0.5;
+        }
+
+        .ds {
+            position: absolute;
+            top: 50%;
+            left: 0px;
+        }
+
+        .ds span {
+            font-family: "iconfont";
+            color: red;
+            font-size: 30px;
+        }
+
         @font-face {
-  font-family: 'iconfont';  /* Project id 3188987 */
-  src: url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.woff2?t=1645090368782') format('woff2'),
-       url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.woff?t=1645090368782') format('woff'),
-       url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.ttf?t=1645090368782') format('truetype');
-}
-      .ds img{
-    width: 75px;height: 75px;
-    position: absolute;
-    display: none;
-}
-.ds:hover img{
-    display: block;
-    position: absolute;
-}  
+            font-family: 'iconfont';
+            /* Project id 3188987 */
+            src: url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.woff2?t=1645090368782') format('woff2'),
+                url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.woff?t=1645090368782') format('woff'),
+                url('//at.alicdn.com/t/font_3188987_1yedezq0bvdi.ttf?t=1645090368782') format('truetype');
+        }
+
+        .ds img {
+            width: 75px;
+            height: 75px;
+            position: absolute;
+            display: none;
+        }
+
+        .ds:hover img {
+            display: block;
+            position: absolute;
+        }
     </style>
 </head>
+
 <body>
     <ul class="nav">
         <li>
             <a href="">校园生活</a>
             <ul class="nav2">
-               <li><a href="https://www.hebiace.edu.cn/">学校官网</a></li>
-               <li><a href="http://jwx.hebiace.edu.cn/xtgl/login_slogin.html
+                <li><a href="https://www.hebiace.edu.cn/">学校官网</a></li>
+                <li><a href="http://jwx.hebiace.edu.cn/xtgl/login_slogin.html
 ">教务系统</a></li>
-               <li><a href="http://lib.hebiace.edu.cn/">学院图书馆</a></li> 
+                <li><a href="http://lib.hebiace.edu.cn/">学院图书馆</a></li>
             </ul>
         </li>
         <li>
@@ -100,11 +139,7 @@
                 <li><a href="https://github.com/">Github</a></li>
                 <li><a href="https://translate.google.cn/">Google翻译</a></li>
                 <li><a href="https://github.com/freefq/free">科学上网</a></li>
-                <li><a href="https://www.niceso.fun/?utm_source=iMyShare&utm_medium=article
-">资源搜索</a></li>
-                <li><a href="https://www.spotlistr.com/" target="_Blank">歌单迁移工具</a></li>
-                <li><a href="https://yyrcd.com/n2s/" target="_Blank">歌单解析工具</a></li>
-                
+                <li><a href="https://flowus.cn/share/a13a5a4e-e6c5-4286-846a-e22d268d3872">iphone科学上网</a></li>
             </ul>
         </li>
         <li>
@@ -122,14 +157,15 @@
                 <li><a href="https://www.zcool.com.cn/">站酷</a></li>
                 <li><a href="https://huaban.com/">花瓣</a></li>
                 <li><a href="./html/吃什么.html">随即点餐</a></li>
-                
+
             </ul>
         </li>
         <li style="float: right;"><a href="../html/老版页面.html">老版页面</a></li>
     </ul>
     <div class="ds">
         <a href="html/pay.html"><span>&#xe647;</span></a>
-        <img src="./img/dsm.png" alt="" title="QQ,微信,支付宝"> 
+        <img src="./img/dsm.png" alt="" title="QQ,微信,支付宝">
     </div>
 </body>
+
 </html>
